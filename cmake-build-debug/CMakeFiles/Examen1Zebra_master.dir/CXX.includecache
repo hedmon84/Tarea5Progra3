@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Beto/Google Drive/Code/C++/Examen1Zebra-master/Evaluador.cpp
+Evaluador.h
+/Users/Beto/Google Drive/Code/C++/Examen1Zebra-master/Evaluador.h
+
+/Users/Beto/Google Drive/Code/C++/Examen1Zebra-master/Evaluador.h
+iostream
+-
+fstream
+-
+math.h
+-
+list
+-
+vector
+-
+
+/Users/Beto/Google Drive/Code/C++/Examen1Zebra-master/main.cpp
+iostream
+-
+fstream
+-
+math.h
+-
+list
+-
+vector
+-
+Evaluador.h
+/Users/Beto/Google Drive/Code/C++/Examen1Zebra-master/Evaluador.h
+

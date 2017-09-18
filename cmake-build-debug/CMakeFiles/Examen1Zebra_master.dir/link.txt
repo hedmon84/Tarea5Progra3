@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Examen1Zebra_master.dir/Evaluador.cpp.o CMakeFiles/Examen1Zebra_master.dir/main.cpp.o  -o Examen1Zebra_master 
